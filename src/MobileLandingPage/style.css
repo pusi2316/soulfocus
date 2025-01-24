@@ -794,6 +794,7 @@
   text-align: left;
   width: 300px;
   top: 5%;
+  display: inline;
 }
 
 .mobile-landing-page .overlap-8 {
