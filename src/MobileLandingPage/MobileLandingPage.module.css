@@ -1,0 +1,29 @@
+.mobile-landing-page {
+  background-color: #232323;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+/* Header styles */
+.header {
+  background-color: transparent;
+  height: 85px;
+  width: 100%;
+  position: relative;
+}
+
+/* Hero Section */
+.hero-section {
+  position: relative;
+  width: 100%;
+  text-align: center;
+}
+
+/* Footer styles */
+.footer {
+  background-color: #232323;
+  text-align: center;
+  padding: 20px;
+}
