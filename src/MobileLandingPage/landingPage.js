@@ -163,14 +163,7 @@ export const MobileLandingPage = () => {
 
         <div className="who-we-are">
           <div className="text-wrapper-5">WHO WE ARE?</div>
-
-          <img
-            className="meet-our-team-who"
-            alt="Meet our team who"
-            src={
-              meetOurTeamWhoCreatedProducedSupportedSomeOfTheMostImpactfulMassParticipationEventsInTheWorld
-            }
-          />
+        <p className="content-wrapper">Meet our <div className="text-gradient">team</div> who created, produced & supported some of the most impactful mass participation events in the world.</p>
 
           <div className="overlap-6">
             <div className="group-3">
@@ -203,7 +196,7 @@ export const MobileLandingPage = () => {
 
                 <div className="group-6">
                   <div className="overlap-group-4">
-                    <img className="arrow-3" alt="Arrow" src={arrow1} />
+                  <img className="arrow-4" alt="Arrow" src={image} />
 
                     <div className="ellipse-3" />
                   </div>
@@ -217,7 +210,7 @@ export const MobileLandingPage = () => {
 
                 <div className="group-6">
                   <div className="overlap-group-4">
-                    <img className="arrow-4" alt="Arrow" src={image} />
+                    <img className="arrow-3" alt="Arrow" src={arrow1} />
 
                     <div className="ellipse-3" />
                   </div>
