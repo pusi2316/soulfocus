@@ -599,7 +599,7 @@
   height: 360px;
   left: 0;
   position: absolute;
-  top: 936px;
+  top: 875px;
   width: 397px;
 }
 
@@ -794,6 +794,9 @@
   text-align: left;
   width: 300px;
   top: 5%;
+}
+
+.content-wrapper div {
   display: inline;
 }
 
