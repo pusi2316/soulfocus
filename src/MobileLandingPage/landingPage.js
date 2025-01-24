@@ -30,7 +30,7 @@ export const MobileLandingPage = () => {
             <div className="overlap-group">
               <div className="rectangle" />
 
-              <video className="video" alt="Rectangle" autoPlay muted loop src={rectangle2}/>
+              <video className="video" alt="Rectangle" autoPlay muted loop playsinline src={rectangle2}/>
               <p className="title-wrapper">We build community through the  <div className="text-gradient" >power of movement.</div></p>
               <p className="text-wrapper">
                 We believe the key to great work is great people. Before
