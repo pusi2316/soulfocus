@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/soulfocus/static/css/main.c9dae403.css",
-    "main.js": "/soulfocus/static/js/main.55755908.js",
+    "main.js": "/soulfocus/static/js/main.8fc7e8f0.js",
     "static/media/soulfocus.mp4": "/soulfocus/static/media/soulfocus.02309afa79b24d21fcc8.mp4",
     "static/media/tempimagewco3d6-3.png": "/soulfocus/static/media/tempimagewco3d6-3.3fcfe509ed1fbe6ebfa7.png",
     "static/media/tempimage0bjyne-2.png": "/soulfocus/static/media/tempimage0bjyne-2.7eca6163524221631f05.png",
@@ -26,10 +26,10 @@
     "static/media/image.svg": "/soulfocus/static/media/image.160b4f9b7868b0aa26bb12629aa11c64.svg",
     "static/media/menu.svg": "/soulfocus/static/media/menu.074aab2c85638737d130b81e31626ddc.svg",
     "main.c9dae403.css.map": "/soulfocus/static/css/main.c9dae403.css.map",
-    "main.55755908.js.map": "/soulfocus/static/js/main.55755908.js.map"
+    "main.8fc7e8f0.js.map": "/soulfocus/static/js/main.8fc7e8f0.js.map"
   },
   "entrypoints": [
     "static/css/main.c9dae403.css",
-    "static/js/main.55755908.js"
+    "static/js/main.8fc7e8f0.js"
   ]
 }
