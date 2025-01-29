@@ -21,6 +21,17 @@ import untitled111 from "./untitled-1-1-1.svg";
 import weBuildCommunityThroughThePowerOfMovement from "./we-build-community-through-the-power-of-movement.svg";
 import youtube from "./youtube.svg";
 
+import elp from "./elp-768x480.webp";
+import giants from "./giants-733x1024.png";
+import gsw from "./GOLDEN-STATE-VALKYRIES-PRIMARY-ICONS-RGB_1-COLOR-WHITE-768x768.webp";
+import gopro from "./gopro-768x268.webp";
+import hoka from "./HOKA_Logo_White-768x211.webp";
+import onesixty from "./One_Sixty_over_Ninety-768x433.webp";
+import runlocal from "./RunLocal-White-Transparent-background-300x300.webp";
+import salomon from "./salomon-768x89.webp"
+import summerscamper from "./summerscamper-768x307.webp";
+import ua from "./udner-amour-768x518.webp";
+
 export const MobileLandingPage = () => {
   return (
     <div className="mobile-landing-page">
@@ -53,32 +64,29 @@ export const MobileLandingPage = () => {
           </header>
         </div>
 
-        <div className="overlap-2">
+
+             {/*        <div className="overlap-2">
           <div className="rectangle-3" />
 
           <div className="partners">
             <div className="overlap-3">
               <div className="rectangle-4" />
+ <div className="text-wrapper-2">WHO WE MOVE WITH</div>
 
-              <div className="text-wrapper-2">WHO WE MOVE WITH</div>
-
-              <img className="group-2" alt="Group" src={group6} />
-
-              <div className="testimonial-card">
-                <div className="text-heading">
-                  <div className="text-heading-2">“Quote”</div>
-                </div>
-
-                <div className="avatar-block">
-                  <div className="avatar" />
-
-                  <div className="info">
-                    <div className="text-wrapper-3">Title</div>
-
-                    <div className="text-wrapper-4">Description</div>
-                  </div>
-                </div>
-              </div>
+              <div class="sliderContainer">
+  <div class="logoSlider">
+    <img src={ua}/>
+    <img src={gsw}/>
+    <img src={runlocal}/>
+    <img src={hoka}/>
+    <img src={giants}/>
+    <img src={elp}/>
+    <img src={gopro}/>
+    <img src={onesixty}/>
+    <img src={salomon}/>
+    <img src={summerscamper}/>
+    </div>
+</div>
             </div>
           </div>
 
@@ -136,9 +144,9 @@ export const MobileLandingPage = () => {
 
           <div className="rectangle-7" />
 
-          <div className="info-soulfocussports"> info@soulfocussports.com</div>
+          <div className="info-soulfocussports"> info@soulfocussports.com</div> */}
 
-          <p className="p">
+         {/*<p className="p">
             Whatever the ask, we deliver. We know sports, event production,
             marketing, grassroots management, and most importantly how to bring
             the positive energy.
@@ -153,13 +161,7 @@ export const MobileLandingPage = () => {
 
             <img className="youtube" alt="Youtube" src={youtube} />
           </div>
-
-          <img
-            className="copyright-soul-focus"
-            alt="Copyright soul focus"
-            src={copyrightSoulFocusSportsLlc}
-          />
-        </div>
+        </div> */}
 
         <div className="who-we-are">
           <div className="text-wrapper-5">WHO WE ARE?</div>
@@ -194,7 +196,7 @@ export const MobileLandingPage = () => {
               <div className="overlap-7">
                 <div className="rectangle-8" />
 
-                <div className="group-6">
+                <div className="group-6-right">
                   <div className="overlap-group-4">
                   <img className="arrow-4" alt="Arrow" src={image} />
 
@@ -208,7 +210,7 @@ export const MobileLandingPage = () => {
               <div className="overlap-7">
                 <div className="rectangle-8" />
 
-                <div className="group-6">
+                <div className="group-6-left">
                   <div className="overlap-group-4">
                     <img className="arrow-3" alt="Arrow" src={arrow1} />
 

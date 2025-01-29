@@ -730,6 +730,25 @@
   width: 26px;
 }
 
+.mobile-landing-page .group-6-right {
+  height: 26px;
+  left: 8px;
+  position: absolute;
+  top: 69px;
+  transform: rotate(90deg);
+  width: 26px;
+
+}
+
+.mobile-landing-page .group-6-left {
+  height: 26px;
+  left: 11px;
+  position: absolute;
+  top: 69px;
+  transform: rotate(90deg);
+  width: 26px;
+}
+
 .mobile-landing-page .overlap-group-4 {
   border-radius: 12.81px;
   height: 26px;
