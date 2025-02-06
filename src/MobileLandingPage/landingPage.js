@@ -20,7 +20,6 @@ import tempimagewco3d63 from "./tempimagewco3d6-3.png";
 import untitled111 from "./untitled-1-1-1.svg";
 import weBuildCommunityThroughThePowerOfMovement from "./we-build-community-through-the-power-of-movement.svg";
 import youtube from "./youtube.svg";
-
 import elp from "./elp-768x480.webp";
 import giants from "./giants-733x1024.png";
 import gsw from "./GOLDEN-STATE-VALKYRIES-PRIMARY-ICONS-RGB_1-COLOR-WHITE-768x768.webp";
@@ -32,6 +31,7 @@ import salomon from "./salomon-768x89.webp"
 import summerscamper from "./summerscamper-768x307.webp";
 import ua from "./udner-amour-768x518.webp";
 import ImageCarousel from "./imagecarousel";
+import TestemonialCard from "./TestemonialCard";
 
 export const MobileLandingPage = () => {
   return (
@@ -102,6 +102,8 @@ export const MobileLandingPage = () => {
 </div>
             </div>
           </div>
+
+          <TestemonialCard/>
 
           <ImageCarousel/>
           <div className="rectangle-6" />

@@ -150,16 +150,15 @@
 .mobile-landing-page .header {
   background-color: transparent;
   height: 85px;
-  left: 0;
   position: absolute;
   top: 0;
-  width: 393px;
+  width: 100%;
 }
 
 .mobile-landing-page .overlap {
   height: 85px;
   position: relative;
-  width: 393px;
+  width: 100%;
 }
 
 .mobile-landing-page .rectangle-2 {
@@ -169,7 +168,7 @@
   opacity: 0.6;
   position: absolute;
   top: 0;
-  width: 393px;
+  width: 100%;
 }
 
 .mobile-landing-page .untitled {
@@ -182,7 +181,7 @@
 
 .mobile-landing-page .menu {
   height: 24px;
-  left: 347px;
+  left: 355px;
   position: absolute;
   top: 34px;
   width: 24px;
@@ -916,4 +915,56 @@
   left: 398px !important;
   top: 880px !important;
   font-size: 1.9rem !important;
+}
+
+.testimonialContainer {
+  top: 230px;
+  width: 18%;
+  left: 394px;
+  color: black;
+  position: absolute;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 0 0 15px -6px black;
+  margin: 10px;
+  max-height: 300px;
+}
+
+.testimonialHeader {
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.imageContainer {
+  background-size: cover;
+  border-radius: 50%;
+
+}
+
+.testimonialBody {
+  text-align: justify;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+.iconContainer {
+  width: 30px;
+  justify-self: end;
+  margin-left: auto;
+}
+
+.icon {
+  fill: rgb(25, 118, 210);
+}
+
+.nameContainer {
+  margin-left: 10px;
+  text-align: left;
+}
+
+.testimonialBodyText {
+  font-size: 1rem;
 }
