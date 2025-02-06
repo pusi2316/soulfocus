@@ -31,6 +31,7 @@ import runlocal from "./RunLocal-White-Transparent-background-300x300.webp";
 import salomon from "./salomon-768x89.webp"
 import summerscamper from "./summerscamper-768x307.webp";
 import ua from "./udner-amour-768x518.webp";
+import ImageCarousel from "./imagecarousel";
 
 export const MobileLandingPage = () => {
   return (
@@ -65,7 +66,7 @@ export const MobileLandingPage = () => {
         </div>
 
 
-             {/*        <div className="overlap-2">
+            <div className="overlap-2">
           <div className="rectangle-3" />
 
           <div className="partners">
@@ -75,78 +76,41 @@ export const MobileLandingPage = () => {
 
               <div class="sliderContainer">
   <div class="logoSlider">
-    <img src={ua}/>
-    <img src={gsw}/>
-    <img src={runlocal}/>
-    <img src={hoka}/>
-    <img src={giants}/>
-    <img src={elp}/>
-    <img src={gopro}/>
-    <img src={onesixty}/>
-    <img src={salomon}/>
-    <img src={summerscamper}/>
+    <img className="logo" src={ua}/>
+    <img className="logo" src={gsw}/>
+    <img className="logo" src={runlocal}/>
+    <img className="logo" src={hoka}/>
+    <img className="logo" src={giants}/>
+    <img className="logo" src={elp}/>
+    <img className="logo" src={gopro}/>
+    <img className="logo" src={onesixty}/>
+    <img className="logo" src={salomon}/>
+    <img className="logo" src={summerscamper}/>
+    </div>
+    <div class="logoSlider">
+    <img className="logo" src={ua}/>
+    <img className="logo" src={gsw}/>
+    <img className="logo" src={runlocal}/>
+    <img className="logo" src={hoka}/>
+    <img className="logo" src={giants}/>
+    <img className="logo" src={elp}/>
+    <img className="logo" src={gopro}/>
+    <img className="logo" src={onesixty}/>
+    <img className="logo" src={salomon}/>
+    <img className="logo" src={summerscamper}/>
     </div>
 </div>
             </div>
           </div>
 
-          <div className="gallery">
-            <div className="overlap-4">
-              <img
-                className="tempimagebjyne"
-                alt="Tempimagebjyne"
-                src={tempimage0bjyne2}
-              />
-
-              <img
-                className="tempimagebjyne-2"
-                alt="Tempimagebjyne"
-                src={tempimage0bjyne2}
-              />
-
-              <img
-                className="tempimagescbhw"
-                alt="Tempimagescbhw"
-                src={tempimagescb1hw1}
-              />
-
-              <div className="gallery-slider-left">
-                <div className="overlap-5">
-                  <div className="rectangle-5" />
-
-                  <div className="overlap-group-wrapper">
-                    <div className="overlap-group-2">
-                      <img className="arrow" alt="Arrow" src={arrow13} />
-
-                      <div className="ellipse" />
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div className="gallery-slider-right">
-                <div className="overlap-5">
-                  <div className="rectangle-5" />
-
-                  <div className="div-wrapper">
-                    <div className="overlap-group-2">
-                      <img className="arrow-2" alt="Arrow" src={arrow12} />
-
-                      <div className="ellipse" />
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-
+          <ImageCarousel/>
           <div className="rectangle-6" />
 
           <div className="rectangle-7" />
+          <p className="title-wrapper">Let’s <div className="text-gradient" >Move</div> Together.</p>
+          <div className="info-soulfocussports"> info@soulfocussports.com</div>
 
-          <div className="info-soulfocussports"> info@soulfocussports.com</div> */}
-
-         {/*<p className="p">
+         <p className="p">
             Whatever the ask, we deliver. We know sports, event production,
             marketing, grassroots management, and most importantly how to bring
             the positive energy.
@@ -161,7 +125,7 @@ export const MobileLandingPage = () => {
 
             <img className="youtube" alt="Youtube" src={youtube} />
           </div>
-        </div> */}
+        </div>
 
         <div className="who-we-are">
           <div className="text-wrapper-5">WHO WE ARE?</div>
