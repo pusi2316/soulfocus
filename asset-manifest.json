@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/soulfocus/static/css/main.b871cfdb.css",
-    "main.js": "/soulfocus/static/js/main.2006ef3f.js",
+    "main.css": "/soulfocus/static/css/main.c28f4bdf.css",
+    "main.js": "/soulfocus/static/js/main.9578aad6.js",
     "static/media/soulfocus.mp4": "/soulfocus/static/media/soulfocus.02309afa79b24d21fcc8.mp4",
     "static/media/tempimagewco3d6-3.png": "/soulfocus/static/media/tempimagewco3d6-3.3fcfe509ed1fbe6ebfa7.png",
     "static/media/tempimage0bjyne-2.png": "/soulfocus/static/media/tempimage0bjyne-2.7eca6163524221631f05.png",
@@ -35,11 +35,11 @@
     "static/media/arrow-1-3.svg": "/soulfocus/static/media/arrow-1-3.ce4941caaaa3c9594280e42950cbe757.svg",
     "static/media/image.svg": "/soulfocus/static/media/image.160b4f9b7868b0aa26bb12629aa11c64.svg",
     "static/media/menu.svg": "/soulfocus/static/media/menu.074aab2c85638737d130b81e31626ddc.svg",
-    "main.b871cfdb.css.map": "/soulfocus/static/css/main.b871cfdb.css.map",
-    "main.2006ef3f.js.map": "/soulfocus/static/js/main.2006ef3f.js.map"
+    "main.c28f4bdf.css.map": "/soulfocus/static/css/main.c28f4bdf.css.map",
+    "main.9578aad6.js.map": "/soulfocus/static/js/main.9578aad6.js.map"
   },
   "entrypoints": [
-    "static/css/main.b871cfdb.css",
-    "static/js/main.2006ef3f.js"
+    "static/css/main.c28f4bdf.css",
+    "static/js/main.9578aad6.js"
   ]
 }
