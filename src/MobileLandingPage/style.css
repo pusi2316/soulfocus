@@ -907,3 +907,13 @@
   top: 848px;
   width: 331px;
 }
+
+.mt-grad {
+  display: inline;
+}
+
+.move-together {
+  left: 398px !important;
+  top: 880px !important;
+  font-size: 1.9rem !important;
+}

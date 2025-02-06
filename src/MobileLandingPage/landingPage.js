@@ -107,7 +107,7 @@ export const MobileLandingPage = () => {
           <div className="rectangle-6" />
 
           <div className="rectangle-7" />
-          <p className="title-wrapper">Let’s <div className="text-gradient" >Move</div> Together.</p>
+          <p className="title-wrapper move-together">Let’s <div className="text-gradient mt-grad" >Move</div> Together.</p>
           <div className="info-soulfocussports"> info@soulfocussports.com</div>
 
          <p className="p">
