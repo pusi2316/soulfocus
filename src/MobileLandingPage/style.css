@@ -162,7 +162,7 @@
 }
 
 .mobile-landing-page .rectangle-2 {
-  background-color: #232323;
+  background-color: transparent;
   height: 85px;
   left: 0;
   opacity: 0.6;
@@ -932,9 +932,9 @@
 
 .testimonialHeader {
   padding: 1rem;
+  padding-bottom: 0;
   display: flex;
   align-items: center;
-  justify-content: space-evenly;
 }
 
 .imageContainer {
@@ -960,9 +960,15 @@
   fill: rgb(25, 118, 210);
 }
 
-.nameContainer {
-  margin-left: 10px;
-  text-align: left;
+.testimonialHeader .nameContainer .nameContainerh4 {
+  position: absolute;
+  margin-top: 0.5rem;
+}
+
+.testimonialHeader .nameContainer .nameContainerp {
+  font-size: 1rem;
+  margin-top: 2.5rem;
+
 }
 
 .testimonialBodyText {

@@ -16,8 +16,8 @@ const TestemonialCard = () => {
               />
             </div>
             <div className="nameContainer">
-              <h4>Jane Doe</h4>
-              <p>Bay FC</p>
+              <h4 className="nameContainerh4">Jane Doe</h4>
+              <p className="nameContainerp">Bay FC</p>
             </div>
             <div className="iconContainer">
               <LeftQuote style={{ fill: "grey" }} className="icon" />
